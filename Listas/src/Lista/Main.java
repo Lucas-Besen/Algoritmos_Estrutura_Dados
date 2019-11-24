@@ -8,7 +8,7 @@ public class Main {
 
 		LSNO lista = new LSNO();
 
-		lista.execultar();
+		lista.executar();
 
 	}
 

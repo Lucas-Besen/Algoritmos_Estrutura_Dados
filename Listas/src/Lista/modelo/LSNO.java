@@ -15,7 +15,7 @@ public class LSNO {
 	public ElementoSimples novo = null, inicio = null, fim = null, aux = null, auxDir = null, auxEsq = null,
 			auxAntrior = null;
 
-	public void execultar() {
+	public void executar() {
 
 		do {
 
