@@ -1,1 +1,1 @@
-# Codigos da disciplina de Algoritmos
+# Codigos da disciplina de Algoritmos e estrutura de dados
